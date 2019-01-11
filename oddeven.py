@@ -1,4 +1,4 @@
-n=raw_input()
+n=int(input("enter num"))
 if(n%2==1):
 print("negative")
 else:
