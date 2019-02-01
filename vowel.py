@@ -3,4 +3,4 @@ value=input("")
 if(value in list):
 	print("vowel")
 else:
-	print("consonent")
+	print("consonant")
