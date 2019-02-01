@@ -1,6 +1,6 @@
 list=['a','e','i','o','u']
 value=input("")
 if(value in list):
-	print("vowel")
+	print("Vowel")
 else:
-	print("consonant")
+	print("Consonant")
