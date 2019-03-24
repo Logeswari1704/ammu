@@ -1,6 +1,6 @@
 week=['Monday','Tuesday','Wednesday','Thursday','Friday']
 weekend=['Saturday','Sunday']
-s=input("enter day")
+s=input(" ")
 for i in range(5):
 	if(s==week[i]):
 		print("no")
